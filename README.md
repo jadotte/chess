@@ -1,2 +1,2 @@
-Stuff I am working on to improve my go skills
 # chess
+Stuff I am working on to improve my go skills
